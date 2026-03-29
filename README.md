@@ -7,7 +7,7 @@ Data analysis and visualization of student performance using Python and Tableau,
 
 <img width="975" height="497" alt="image" src="https://github.com/user-attachments/assets/5697386b-ca22-45be-b81a-100946817da2" />
 
-Dashboard: [**Link**](https://public.tableau.com/app/profile/thanusha.udara/viz/Book1_17732410953340/Dashboard1?publish=yes)
+<h1>🔗 Dashboard: <a href="https://public.tableau.com/app/profile/thanusha.udara/viz/Book1_17732410953340/Dashboard1?publish=yes"><b>Link</b></a></h1>
 
 ---
 
